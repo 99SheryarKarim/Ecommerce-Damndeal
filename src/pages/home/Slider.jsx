@@ -39,7 +39,7 @@ const Slider = () => {
           <ContentWrapper >
             <LimitedEditionButton>Limited Edition</LimitedEditionButton>
             <HeaderText>Modern </HeaderText>
-            <HeaderText style={diningtxt}>Dining Chair</HeaderText>
+            <HeaderText style={diningtxt}>Eyaad Chair</HeaderText>
             <Paragraph>Discover our new items. Up to 25% Off !</Paragraph>
         
             <ShopNowButton>Shop now</ShopNowButton>
